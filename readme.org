@@ -3,3 +3,6 @@
 
 Built from https://jdhao.github.io/post/fastapi-app-deployment-docker/
 
+- create virtual environment: `python -m venv venv`
+- `source venv/bin/activate`
+- `deactivate` the venv
